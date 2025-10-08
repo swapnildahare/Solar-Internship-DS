@@ -1,6 +1,8 @@
 # Solar-Internship-DS
 AlphaCare is a comprehensive medical assistant platform designed to streamline healthcare processes using AI and modern technologies. It assists in patient management, medical record handling, diagnostics, and personalized health recommendations — all in a secure, efficient, and user-friendly system.  
-#Features:
+
+#FEATURES:
+
 Patient Management System — Manage patient records, appointments, and history.
 
 Medical Data Analytics — Analyze patient data for insights and trends.
